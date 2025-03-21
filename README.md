@@ -10,7 +10,6 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frederickkrisna?igsh=MWppNWpnbjFtazR0dg%3D%3D&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederick-suryopranoto/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/fred28122004?s=11&t=-uL_pCITUNo65snYzqY47Q)
 
 <hr/>
  
